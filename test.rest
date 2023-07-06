@@ -1,0 +1,6 @@
+GET https://api.api-ninjas.com/v1/cars
+Content-Type: application/json
+
+headers: { 
+    "X-Api-Key": "Nu4QfuNAoZnagEIx9v93MA==I13A4hUHwixgl1hN"
+}
