@@ -20,11 +20,6 @@ const Navbar = () => {
                     className='object-contain'
                 />
             </Link>
-            <Button 
-                title="Sign In"
-                styles="text-primary-blue rounded-full bg-white min-w-[130px]"
-                handleClick={handleClick}
-            />
         </nav>
     </header>
   )
